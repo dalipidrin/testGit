@@ -10,4 +10,7 @@ public class test {
 
 
     public int test2;
+
+
+    public String testAuthor;
 }
