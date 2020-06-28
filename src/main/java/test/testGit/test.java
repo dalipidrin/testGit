@@ -27,4 +27,7 @@ public class test {
     int testPerseri;
 
     String ThisIsTheLastTest;
+
+
+    String branchTest;
 }
