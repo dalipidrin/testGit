@@ -13,4 +13,6 @@ public class test {
 
 
     public String testAuthor;
+
+    int test;
 }
