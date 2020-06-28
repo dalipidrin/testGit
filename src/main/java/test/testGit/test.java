@@ -23,4 +23,6 @@ public class test {
 
 
     int testShkoojm;
+
+    int testPerseri;
 }
