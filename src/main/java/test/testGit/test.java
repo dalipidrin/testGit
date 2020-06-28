@@ -25,4 +25,6 @@ public class test {
     int testShkoojm;
 
     int testPerseri;
+
+    String ThisIsTheLastTest;
 }
