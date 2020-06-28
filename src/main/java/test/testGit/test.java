@@ -7,4 +7,7 @@ public class test {
     public String testString;
 
     public String testCommit;
+
+
+    public int test2;
 }
