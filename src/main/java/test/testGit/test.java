@@ -20,4 +20,7 @@ public class test {
     String testojmDrinAuthor;
 
     int test20;
+
+
+    int testShkoojm;
 }
