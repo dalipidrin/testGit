@@ -30,4 +30,7 @@ public class test {
 
 
     String branchTest;
+
+
+    int DriniBranch;
 }
